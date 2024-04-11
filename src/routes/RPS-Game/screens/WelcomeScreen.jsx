@@ -40,3 +40,4 @@ WelcomeScreen.propTypes = {
   onNameChange: PropTypes.func.isRequired,
   onGameStart: PropTypes.func.isRequired
 }
+export default WelcomeScreen;
